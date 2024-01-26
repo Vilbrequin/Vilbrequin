@@ -24,7 +24,7 @@
 
 <!-- Badges for GitHub profile -->
 <div align="left">
-`<img src="https://komarev.com/ghpvc/?username=Vilbrequin&color=blue&style=flat-square" height="25" alt="Profile Views" />`
+  <img src="https://komarev.com/ghpvc/?username=Vilbrequin&color=blue&style=flat-square" height="25" alt="Profile Views" />
   <img src="https://img.shields.io/github/stars/Vilbrequin/Vilbrequin?style=for-the-badge" height="25" alt="stars" />
   <img src="https://img.shields.io/github/forks/Vilbrequin/Vilbrequin?style=for-the-badge" height="25" alt="forks" />
 </div>
