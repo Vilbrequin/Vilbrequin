@@ -3,5 +3,5 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/lO6HqZ3I2dIAAAAj/e.gif" />
+<img align="center" height="150" src="https://media.tenor.com/lO6HqZ3I2dIAAAAj/e.gif" />
 
